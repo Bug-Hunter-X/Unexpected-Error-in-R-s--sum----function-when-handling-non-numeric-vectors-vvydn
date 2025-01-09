@@ -1,0 +1,1 @@
+This repository contains an example of a subtle bug in R related to the handling of non-numeric values within the `sum()` function.  The `bug.R` file demonstrates the problem, while `bugSolution.R` provides a corrected version. The issue highlights the importance of robust input validation in R functions.
